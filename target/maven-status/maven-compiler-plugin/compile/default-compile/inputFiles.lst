@@ -1,0 +1,14 @@
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\config\DataSourceConfig.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\batch\step\SendEmailPromotionStepConfig.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\batch\reader\InterestProductReaderConfig.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\entity\InterestProductClientEntity.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\batch\processor\ProcessorEmailClientProcessorConfig.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\job\SendPromotionScheduleJob.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\SendPromotionEmailApplication.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\batch\job\SendEmailPromotionJobConfig.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\utils\ConstantesUtils.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\entity\ClientEntity.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\batch\writer\SendEmailClientWriterConfig.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\utils\EmailModal.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\utils\EmailValidatorUtil.java
+D:\Tests temporarios\SendPromotionEmail\src\main\java\br\com\elton\send\promotion\entity\ProductEntity.java
